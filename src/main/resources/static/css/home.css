@@ -1,0 +1,21 @@
+.admin-message-text {
+    font-style: normal;
+    font-size: 22px;
+    color: #004080;
+}
+
+.question-content{
+    padding:5px 20px 5px 20px;
+}
+.question-content h2{
+    display:inline;
+}
+.question-content .anchor{
+    display:inline;
+    float:right;
+}
+.add-question{
+	float: right;
+    background-color: transparent;
+    color: black;
+}
