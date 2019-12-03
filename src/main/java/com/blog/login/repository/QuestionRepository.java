@@ -9,7 +9,6 @@ import org.springframework.stereotype.Repository;
 import com.blog.login.model.Question;
 import com.blog.login.model.User;
 
-import net.bytebuddy.asm.Advice.Return;
 
 @Repository("questionRepository")
 public interface QuestionRepository extends JpaRepository<Question, Long> {
